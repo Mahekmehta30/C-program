@@ -1,0 +1,27 @@
+Mahek Mehta BCA sem-5 D-36
+
+Ans
+2D commands
+UN
+D	= this 3 command is use for setting
+Ds
+
+trim = for cut the extra drawing
+C= circle
+L= line
+R= Rectangle
+P= point
+po= Polygon
+mo= Move
+Co=copy
+Ro= rotate
+Ch= Chamfer
+arr= array
+mir= mirror
+
+3D commands
+me(messh)
+bo(box)
+he(helix)
+ca(camer)
+li(lights)
